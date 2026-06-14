@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-ECE Student • Software Developer • AI & Digital Systems Enthusiast
+ECE Student • Web Development Enthusiast • AI & Digital Systems Enthusiast
 </h3>
 
 <p align="center">
