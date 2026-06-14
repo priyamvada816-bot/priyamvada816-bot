@@ -1,10 +1,14 @@
+````md
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Priyamvada+Sharma+%F0%9F%91%8B;ECE+Student+%7C+Software+Builder+%7C+DSA+Learner;Bridging+Electronics%2C+AI+and+Web+Technologies" alt="Typing SVG" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Priyamvada Sharma</h1>
-
-<h3 align="center">ECE Student • Aspiring Software Engineer • Web Developer</h3>
+<h3 align="center">
+ECE Student • Software Developer • AI & Digital Systems Enthusiast
+</h3>
 
 <p align="center">
-Building practical software, strengthening DSA fundamentals, and exploring AI-powered solutions.
+I build practical software solutions while exploring how Electronics, AI, and Web Technologies can work together.
 </p>
 
 <p align="center">
@@ -19,40 +23,49 @@ Building practical software, strengthening DSA fundamentals, and exploring AI-po
 
 🎓 Electronics & Communication Engineering Student
 
-💻 Passionate about Software Development and Web Technologies
+💻 Interested in Software Development, Web Technologies, AI applications, and Digital Systems
 
-🧠 Currently focused on:
+🧠 Currently focused on strengthening:
 
-- Data Structures & Algorithms
-- Aptitude Preparation
+- Data Structures & Algorithms using C++
+- Aptitude and problem-solving skills
 - Object-Oriented Programming
 - Frontend Development
+- Computer Science fundamentals for internships
 
-🚀 Built and deployed real-world projects combining software, analytics, and engineering concepts.
+⚙️ I enjoy connecting my ECE background with software to build projects that are practical, visual, and user-focused.
 
-🎯 Goal: Secure impactful internships and grow into a strong software engineer.
+🎯 Goal: Become internship-ready for roles that value both engineering fundamentals and software development skills.
+
+---
+
+## 🧩 What Makes My Profile Different
+
+I am not only learning software development as a separate skill.
+
+I am using it as a tool to bring engineering ideas to life — from student productivity systems to digital twin-inspired dashboards.
+
+My focus is on building a profile that connects:
+
+```text
+Electronics + Software + AI + Problem Solving
+````
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Programming & Web
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Currently Learning
 
-DSA • OOPs • DBMS • Operating Systems • Computer Networks
+\
+
+### Engineering Interests
+
+Digital Systems • AI Fundamentals • Embedded Concepts • Digital Twin Concepts • Electronics + Software Integration
 
 ---
 
@@ -60,18 +73,24 @@ DSA • OOPs • DBMS • Operating Systems • Computer Networks
 
 ### 📚 Student Life OS
 
-A student productivity platform designed to help students organize academics, tasks, and daily activities.
+A student-focused productivity platform designed to organize academic tasks, daily planning, and student workflow in one place.
 
-🔗 Live Demo:  
+**Why it matters:**
+It reflects my interest in building useful software for real-world student problems.
+
+🔗 Live Demo:
 https://project-7k4h.vercel.app/
 
 ---
 
 ### ⚙️ Digital Twin Dashboard
 
-An interactive dashboard inspired by digital twin concepts for monitoring, visualization, and analytics.
+An engineering-inspired web dashboard based on digital twin concepts for monitoring, visualization, and decision support.
 
-🔗 Live Demo:  
+**Why it matters:**
+This project connects my ECE background with software, analytics, and visual system monitoring.
+
+🔗 Live Demo:
 https://project2-two-sigma.vercel.app/
 
 ---
@@ -79,37 +98,29 @@ https://project2-two-sigma.vercel.app/
 ## 📜 Certifications
 
 ✅ Google AI Essentials
-
 ✅ Cisco Data Science
-
 ✅ HP Professional Networking
 
 ---
 
-## 📈 Current Mission (Summer 2026)
+## 📈 Current Mission
 
-- Strengthen DSA fundamentals
-- Practice aptitude daily
-- Master OOPs concepts
-- Improve problem-solving consistency
-- Build a strong internship-ready profile
+* Strengthen DSA fundamentals using C++
+* Practice aptitude consistently
+* Build confidence in OOPs concepts
+* Improve frontend development skills
+* Learn DBMS, OS, and Computer Networks basics
+* Bridge ECE concepts with software-based solutions
 
 ---
 
 ## 📊 GitHub Stats
 
-![Priyamvada's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyamvada816-bot&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyamvada816-bot&layout=compact&theme=tokyonight)
-
 ---
 
 ## 💡 Fun Fact
 
-I enjoy combining my ECE background with software development to build practical, user-focused solutions.
+I enjoy exploring how software can make engineering concepts more interactive, visual, and easier to understand.
 
 ---
 
-<p align="center">
-✨ Learning • Building • Improving Every Day ✨
-</p>
